@@ -1,3 +1,4 @@
+![logo](https://github.com/indrasenaReddy04/indrasenaReddy04/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm IndrasenaReddy Annapureddy</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
 <img align="right"alt="coding"width="400"src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
