@@ -8,7 +8,8 @@
 
 - 📫 How to reach me **indrasenareddyannapureddy4@gmail.com**
 
-- 📄 Know about my experiences [https://indrasenareddy04.github.io/Resume/](https://indrasenareddy04.github.io/Resume/)
+- 📄 Know about my experiences
+-  [https://indrasenareddy04.github.io/Resume/](https://indrasenareddy04.github.io/Resume/)
 
 - ⚡ Fun fact **I am funny**
 
