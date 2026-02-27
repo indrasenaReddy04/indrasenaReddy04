@@ -7,10 +7,6 @@
 - 👨‍💻 All of my projects are available at [https://indrasenareddy04.github.io/Indra4/](https://indrasenareddy04.github.io/Indra4/)
 
 - 📫 How to reach me **indrasenareddyannapureddy05@gmail.com**
-
-- 📄 Know about my experiences
--  [https://indrasenareddy04.github.io/Resume/](https://indrasenareddy04.github.io/Resume/)
-
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
